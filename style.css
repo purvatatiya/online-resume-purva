@@ -8,3 +8,31 @@ body {
     background-color: #656dad;
     border-radius: 20px;
 }
+h1,h2,h3 {
+    font-family: "Poppins", serif;
+
+}
+h1{
+    
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+
+}
+
+h2{
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+}
+h3{
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+}
+p{
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
