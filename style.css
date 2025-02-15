@@ -4,6 +4,8 @@ html{
 body {
     background-color: #eff0fb;
     font-family: "Lato" , serif;
+    border: 0px;
+    padding: 0px;
 }
 .container{
     display: flex;
@@ -46,6 +48,8 @@ nav {
     padding: 5px;
     filter: drop-shadow(5px 10px 12px #ff7070);
     position: fixed;
+    width: 100%;
+    top: 0px;
 
 }
 nav ul{
