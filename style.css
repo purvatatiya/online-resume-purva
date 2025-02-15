@@ -1,6 +1,8 @@
 html{
     scroll-behavior: smooth;
 }
+    
+
 body {
     background-color: #eff0fb;
     font-family: "Lato" , serif;
@@ -67,4 +69,11 @@ nav ul{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 15px;
+}
+/* for mobile*/
+@media screen and (max-width: 576px){
+    .container{
+            display: block;
+            flex-direction: column-reverse;
+    }
 }
