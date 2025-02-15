@@ -62,3 +62,9 @@ nav ul{
      overflow: hidden;
      
 }
+.menu-container li a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
