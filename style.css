@@ -79,10 +79,17 @@ nav ul{
      display: flex;
      width: 100%;
      margin: 0 auto;
-     justify-content: center;
+     justify-content: space-between;
      padding: 0;
      overflow: hidden;
      
+}
+nav ul li {
+    margin-right: 20px; /* Adjust this value to reduce the space between items */
+}
+
+nav ul li:last-child {
+    margin-right: 0; /* Removes space on the last item */
 }
 .menu-container li a{
     color: #fff;
