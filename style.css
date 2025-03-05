@@ -30,6 +30,12 @@ body {
     margin-top: 0;
 }
 
+.header-image {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+}
 
 h1,h2,h3 {
     font-family: "Poppins", serif;
