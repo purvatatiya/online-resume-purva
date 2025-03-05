@@ -22,6 +22,15 @@ body {
     margin-left: 30px; 
 }
 
+.job-title {
+    margin-bottom: 5px; 
+}
+
+.job-details {
+    margin-top: 0;
+}
+
+
 h1,h2,h3 {
     font-family: "Poppins", serif;
 
